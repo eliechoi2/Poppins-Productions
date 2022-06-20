@@ -1,0 +1,428 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+a {
+  text-decoration: none;
+}
+.home {
+  background-image: url('Images/wp5323299.jpg');
+  background-size: cover;
+  padding-bottom: 40%;
+}
+.title {
+  color: white;
+  font-family: Impact;
+  font-weight: normal;
+  font-size: 3vw;
+}
+
+.nav {
+  color: white;
+  margin-left: 7%;
+  font-family: sans-serif;
+}
+
+.header {
+  padding-top:1%;
+  display:inline-block;
+  text-align: right;
+  width: 60%;
+}
+
+.name {
+  text-align: left;
+  display: inline-block;
+  width: 25%;
+  margin-left: 5%;
+}
+
+.index #line {
+  width: 2vw;
+  padding-left: .6%;
+  background-color: white;
+  padding-top: .3%;
+  margin-left: 44%;
+}
+
+
+.ourservices {
+  font-family: sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 2vw;
+  display: inline-block;
+}
+.mention {
+  color: white;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.line {
+  position: absolute;
+  width: 10vw;
+  margin-left: 0%;
+  background-color: #AF8B53;
+  border: none;
+  padding-top: .1%;
+  margin-top: -.5%;
+
+}
+.servicesheader {
+  width: 80%;
+  margin: auto;
+  text-align: left;
+  margin-top: 8%;
+}
+
+.services {
+  padding-bottom: 5%;
+}
+
+.dash {
+  width: 6vw;
+  margin-left:20%;
+  background-color: white;
+  border: none;
+  padding-top: .03%;
+  position:absolute;
+  margin-top: -2.5%;
+}
+
+.mention {
+  position:absolute;
+  margin-left: 30%;
+  margin-top: -3%;
+}
+
+.grid {
+  width: 90%;
+  text-align: center;
+  margin: auto;
+  margin-top: 8%;
+}
+
+.box {
+  background-color: #292F2F;
+  display: inline-block;
+  width: 20%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+
+}
+
+.boxline {
+  width: 5vw;
+  border: none;
+  background-color: white;
+  padding: .3%;
+  margin-bottom: 8%;
+}
+
+.services h4 {
+  color: white;
+  font-family: sans-serif;
+  font-size: .7vw;
+  width: 70%;
+  margin: auto;
+  margin-bottom: 9%;
+  margin-top: 7%;
+}
+
+.services p {
+  color: white;
+  font-family: sans-serif;
+  font-size: .9vw;
+  font-weight: lighter;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 30%;
+  margin-top: 30%;
+}
+
+.getintouch {
+  font-family: sans-serif;
+  color: white;
+  border-color: white;
+  border-style: solid;
+  border-width: thin;
+  padding: 4%;
+  border-radius: 15px;
+  padding-left: 14%;
+  padding-right: 14%;
+}
+
+.philanthropy {
+  width: 50%;
+  background-color: #464646;
+  margin-left: 5%;
+  margin-top: 8%;
+  padding-top: 3%;
+  padding-left: 5%;
+  padding-bottom: 15%;
+  margin-bottom: 5%;
+}
+.phil {
+  font-family: sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 2vw;
+}
+
+.phildash {
+  width: 6vw;
+  margin-left:20%;
+  background-color: white;
+  border: none;
+  padding-top: .03%;
+  position:absolute;
+  margin-top: -2.5%;
+}
+
+.socialcause {
+  position:absolute;
+  margin-left: 30%;
+  margin-top: -3%;
+  color: white;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+.philanthropy p {
+  font-family: sans-serif;
+  color: white;
+  width: 40%;
+  font-size: .8vw;
+  margin-left: 2%;
+  margin-top: 10%;
+  line-height: 130%;
+  font-weight: lighter;
+}
+
+.philline {
+  position: absolute;
+  width: 10vw;
+  margin-left: 0%;
+  background-color: #AF8B53;
+  border: none;
+  padding-top: .1%;
+  margin-top: 4%;
+  margin-left: 1%;
+}
+
+.philimage {
+  position: absolute;
+  width: 55%;
+  margin-left: 40%;
+  margin-top: 20%;
+}
+
+.meetTheTeam {
+  width: 100%;
+  display: block;
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: 10%;
+}
+
+.meetTheTeamName {
+  font-family: Impact;
+  color: white;
+  font-weight: normal;
+  font-size: 2vw;
+}
+
+.meetline {
+  width: 4vw;
+  background-color: #AF8B53;
+  border: none;
+  padding-top: .4%;
+  margin-top: -.5%;
+  display: block;
+}
+
+.row1 {
+  width: 100%;
+  text-align: center;
+}
+.image1 {
+  background-image: url('Images/20211016_155115.jpg');
+  padding-top: 160%;
+  width: 100%;
+  background-size: cover;
+  display: inline-block;
+}
+
+.image2 {
+  background-image: url('Images/IMG_20211026_071213_556.jpg');
+  padding-top: 160%;
+  width: 100%;
+  background-size: cover;
+  display: inline-block;
+}
+
+.image3 {
+  background-image: url('Images/Image from iOS.jpg');
+  padding-top: 160%;
+  width: 100%;
+  background-size: cover;
+  display: inline-block;
+}
+
+.image4 {
+  background-image: url('Images/20220430_182733.jpg');
+  padding-top: 160%;
+  width: 100%;
+  background-size: cover;
+  display: inline-block;
+}
+
+.image5 {
+  background-image: url('Images/karalyne.jpg');
+  padding-top: 160%;
+  width: 100%;
+  background-size: cover;
+  display: inline-block;
+}
+
+.image6 {
+  background-image: url('Images/max.jpg');
+  padding-top: 160%;
+  width: 100%;
+  background-size: cover;
+  display: inline-block;
+}
+
+.image7 {
+  background-image: url('Images/Image from iOS (3).jpg');
+  padding-top: 160%;
+  width: 100%;
+  background-size: cover;
+  display: inline-block;
+}
+
+.image8 {
+  background-image: url('Images/kunjan (1).jpg');
+  padding-top: 160%;
+  width: 100%;
+  background-size: cover;
+  display: inline-block;
+}
+
+.image9 {
+  background-image: url('Images/Image from iOS (3).jpg');
+  padding-top: 160%;
+  width: 100%;
+  background-size: cover;
+  display: inline-block;
+}
+
+.gallery h1 {
+  font-family: sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: .6vw;
+}
+
+.bio {
+  text-align: left;
+  width: 100%;
+  background-color: #666666;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin-top: -1%;
+}
+
+.bio h2 {
+  font-family: monospace;
+  color: white;
+  font-size: .6vw;
+  font-weight: lighter;
+  margin-left: 5%;
+}
+
+.bio h1 {
+  margin-left: 5%;
+}
+
+.bio p {
+  font-family: monospace;
+  color: white;
+  font-size: .6vw;
+  font-weight: lighter;
+  margin-left: 5%;
+}
+
+.gal1 {
+  width: 20%;
+  display: inline-block;
+}
+
+.gallery {
+  margin-top: 8%;
+}
+
+.row2 {
+  margin-top: 2%;
+}
+
+.row3 {
+  margin-top: 2%;
+}
+
+.about {
+  width: 80%;
+  margin:auto;
+  margin-top: 20%;
+}
+
+.aboutus {
+  font-family: sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 2vw;
+  display: inline-block;
+}
+
+.aboutline {
+  position: absolute;
+  width: 10vw;
+  margin-left: 0%;
+  background-color: #AF8B53;
+  border: none;
+  padding-top: .1%;
+  margin-top: -.5%;
+}
+
+.aboutdash {
+  width: 6vw;
+  margin-left:17%;
+  background-color: white;
+  border: none;
+  padding-top: .03%;
+  position:absolute;
+  margin-top: -2.5%;
+}
+
+.mary {
+  width: 30%;
+  display: block;
+  margin: auto;
+}
+
+.about p {
+  width: 13%;
+  color: white;
+  font-family: sans-serif;
+  display: inline-block;
+  margin-left: 5%;
+  text-align: left;
+  vertical-align: top;
+}
+
+.para {
+  text-align: center;
+  margin-top: 5%;
+}
